@@ -1,0 +1,17 @@
+<meta>
+	<script src="loadC.lua" type="client"/>
+	<script src="loadG.lua" type="shared"/>
+
+	<file src="olds/images/1.png"/>
+	<file src="olds/images/2.png"/>
+	<file src="olds/images/bg.png"/>
+	<file src="olds/images/load.png"/>
+
+	<file src="olds/images/logo.png"/>
+	<file src="olds/images/pausa.png"/>
+	<file src="olds/images/play.png"/>
+	<file src="olds/images/coroa.png"/>
+	<file src="olds/images/lights.png"/>
+
+	<file src="olds/sound/music.mp3"/>
+</meta>
